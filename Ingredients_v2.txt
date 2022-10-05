@@ -1,0 +1,50 @@
+Apple, Butter, Egg, Flour, Sugar, Cinnamon
+Sugar, Salt, Black Pepper, Mustard
+Filo, Pistachio, Walnut, Honey, Butter, Cinnamon, Sugar
+Beef, Olive Oil, Mustard, Thyme, Garlic
+Beef, Onion, Salt, Cucumber, Olive Oil, Black Pepper, Yolk, Shallot, Mustard
+Beet, Carrot, Spinach, Avocado
+Flour, Egg, Butter, Yeast, Sugar, Milk
+Rice, Soya Sauce, Egg, Pepper, Garlic, Spinach, Carrot, Sesame Oil, Salt, Garlic, Mushroom
+Bread, Milk, Egg, Butter, Sugar, Cinnamon
+Egg, Potatoes, Avocado, Tortilla
+Bread, Garlic, Tomato, Basil, Olive Oil, Salt, Black Pepper
+Egg, Cheese, Bread, Garlic, Lemon, Salt, Pepper, Olive Oil
+Ricotta, Chocolate, Pistachio, Egg, Flour, Sugar, Cinnamon
+Tomato, Cheese, Basil, olive Oil, Salt, Pepper
+Flour, Egg, Sugar, Carrot
+Onion, Avocado, Shrimp, Tomato, Lemon, Pepper, Salt
+Egg, Butter, Cheese, Sugar
+Chicken, Pepper, Tomato, Onion, Garlic, Coriander, Garam Masala, Chilli Powder
+Chicken, Chilli Powder, Salt, Pepper, Garlic, Olive Oil, Butter, Cheese, Tortillas
+Chicken, Garlic, Soy Sauce, Pepper
+Chocolate, Cream, Milk, Egg, Flour, Butter, Sugar
+Chocolate, Cream, Milk, Egg
+Flour, Cream, Egg, Butter, Sugar, Olive Oil, Cinnamon
+Cream, Potato, Onion, Milk, Butter, Bacon, Parsley, Thyme
+Bread, Cheese, Tomato, Lettuce, Mayo
+Crab, Mayo, Egg, Pepper, Seasoning
+Cream, Egg, Vanilla, Sugar
+Cheese, Bread, Egg, Butter, Milk, Flour, Mustard
+Egg, Butter, Vanilla, Milk, Sugar, Flour
+Egg, Mustard, Mayo
+Milk, Flour, Egg, Sugar, Butter
+Flour, Water, Salt
+Edamame
+Egg, Butter, Salt
+Butter, Garlic, Salt, Parsley, Meat, Shallot, Black Pepper
+Bread, Vegetables, Garlic, Meat, Olive Oil, Salt
+Mignon, Salt, Pepper, Olive Oil, Butter
+Fish, Potato, Salt, Flour
+Bread, Salt, Pepper
+Potato, Salt
+Onion, Bread, Salt, Garlic, Olive Oil, Thyme
+Bread, Egg, Milk, Cinnamon, Butter, Sugar
+Garlic, Egg, Flour, Salt, Black Pepper
+Rice, Butter, Vegetables, Egg, Garlic, Salt, Soy Sauce
+Milk, Vanilla, Sugar
+Bread, Garlic, Butter, Parsley, Olive Oil
+Potato, Cheese, Flour, Egg
+Cheese, Tomato, Onion, Olive, Black Pepper, Salt
+Cheese, Bread, Mayo, Butter
+Salmon, Olive Oil, Salt, Black Pepper
